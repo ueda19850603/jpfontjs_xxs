@@ -13,3 +13,7 @@ IPAフォントをPDFMakeによってコンバートし、膨大な文字コー�
 
 > 使い方
 yarn add ueda19850603/jpfontjs_xs
+
+
+作り方：
+font subsetツールを起動して、 subset.txtの文字をコピペーしてサブセットフォントを作成します
